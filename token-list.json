@@ -12,43 +12,26 @@
     {
       "name": "Wrapped ETH",
       "symbol": "WETH",
-      "address": "0x4200000000000000000000000000000000000006",
-      "chainId": 8453,
+      "address": "0x0d8A9132dDE07A752e5F9572FA789e7dcfa52235",
+      "chainId": 168587773,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/iceswap/token-lists/main/images/0x4200000000000000000000000000000000000006.png"
-    },
-
-    {
-      "name": "Axelar Wrapped USDC",
-      "symbol": "axlUSDC",
-      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-      "chainId": 8453,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/iceswap/token-lists/main/images/0xEB466342C4d449BC9f53A865D5Cb90586f405215.png"
+      "logoURI": "https://raw.githubusercontent.com/iceswap/token-lists/blast/images/0x0d8A9132dDE07A752e5F9572FA789e7dcfa52235.png"
     },
     {
-      "name": "USD Base Coin",
-      "symbol": "USDbC",
-      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
-      "chainId": 8453,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/iceswap/token-lists/main/images/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA.png"
-    },
-    {
-      "name": "Coinbase Wrapped Staked ETH",
-      "symbol": "cbETH",
-      "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
-      "chainId": 8453,
+      "name": "IceSwap Token",
+      "symbol": "IKE",
+      "address": "0x83d0f53a26eb04082b0e187Df0d1f8c5a963e0C6",
+      "chainId": 168587773,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/iceswap/token-lists/main/images/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22.png"
+      "logoURI": "https://raw.githubusercontent.com/iceswap/token-lists/blast/images/0x83d0f53a26eb04082b0e187Df0d1f8c5a963e0C6.png"
     },
     {
-      "name": "Bald",
-      "symbol": "BALD",
-      "address": "0x27d2decb4bfc9c76f0309b8e88dec3a601fe25a8",
-      "chainId": 8453,
+      "name": "USD on Blast",
+      "symbol": "USDB",
+      "address": "0x83d0f53a26eb04082b0e187Df0d1f8c5a963e0C6",
+      "chainId": 168587773,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/iceswap/token-lists/main/images/0x27d2decb4bfc9c76f0309b8e88dec3a601fe25a8.png"
-    }
+      "logoURI": "https://raw.githubusercontent.com/iceswap/token-lists/blast/images/0x83d0f53a26eb04082b0e187Df0d1f8c5a963e0C6.png"
+    },
   ]
 }
