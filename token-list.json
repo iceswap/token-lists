@@ -20,10 +20,10 @@
     {
       "name": "IceSwap Token",
       "symbol": "IKE",
-      "address": "0x83d0f53a26eb04082b0e187Df0d1f8c5a963e0C6",
+      "address": "0x07afA535944E5A28b75FF3C65056a6331081CC55",
       "chainId": 168587773,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/iceswap/token-lists/blast/images/0x83d0f53a26eb04082b0e187Df0d1f8c5a963e0C6.png"
+      "logoURI": "https://raw.githubusercontent.com/iceswap/token-lists/blast/images/0x07afA535944E5A28b75FF3C65056a6331081CC55.png"
     },
     {
       "name": "USD on Blast",
